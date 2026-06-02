@@ -1,13 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:394d6b,100:8da6b6&height=180&section=header&text=João%20Vitor%20de%20Souza%20Lemos&fontSize=36&fontColor=FFFFFF&fontAlignY=52&desc=QA%20Engineer%20%7C%20Automação%20de%20Testes%20%7C%20Engenharia%20de%20Qualidade%20de%20Software&descSize=15&descAlignY=72&descColor=e1e4e9" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:394d6b,100:8da6b6&height=200&section=header&text=João%20Vitor%20de%20Souza%20Lemos&fontSize=36&fontColor=FFFFFF&fontAlignY=48&desc=QA%20Engineer%20%7C%20Automação%20de%20Testes%20%7C%20Engenharia%20de%20Qualidade%20de%20Software&descSize=15&descAlignY=65&descColor=FFFFFF" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=394D6B&center=true&vCenter=true&width=720&lines=🔍+Garantia+de+Qualidade+é+o+que+me+move;⚙️+Cypress+%7C+Postman+%7C+Appium+%7C+GitHub+Actions;🧪+Testes+Manuais+e+Automação+de+Ponta+a+Ponta;📐+Pós-Graduando+em+Engenharia+de+Qualidade+(PUC+Minas);🎯+Buscando+minha+primeira+oportunidade+como+QA" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/demo/api?font=Fira+Code&weight=700&size=21&pause=1000&color=394D6B&center=true&vCenter=true&width=720&lines=QA+Engineer+em+Formacao;Cypress+%7C+Postman+%7C+Appium+%7C+GitHub+Actions;Testes+Manuais+e+Automacao+de+Ponta+a+Ponta;Pos-Graduando+em+Engenharia+de+Qualidade+-+PUC+Minas;Buscando+minha+primeira+oportunidade+como+QA" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -122,9 +120,9 @@ Minha vivência profissional me ensinou que processos mal validados geram retrab
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-de-souza-lemos&show_icons=true&theme=default&title_color=394d6b&text_color=394d6b&icon_color=8da6b6&border_color=394d6b&bg_color=ffffff&hide_border=false&rank_icon=github&show=reviews" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-de-souza-lemos&show_icons=true&title_color=394d6b&text_color=394d6b&icon_color=8da6b6&border_color=394d6b&bg_color=ffffff" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-de-souza-lemos&layout=compact&title_color=394d6b&text_color=394d6b&border_color=394d6b&bg_color=ffffff&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-de-souza-lemos&layout=compact&title_color=394d6b&text_color=394d6b&border_color=394d6b&bg_color=ffffff" />
 </div>
 
 <br/>
