@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/api?font=Fira+Code&weight=700&size=21&pause=1000&color=394D6B&center=true&vCenter=true&width=720&lines=QA+Engineer+em+Formacao;Cypress+%7C+Postman+%7C+Appium+%7C+GitHub+Actions;Testes+Manuais+e+Automacao+de+Ponta+a+Ponta;Pos-Graduando+em+Engenharia+de+Qualidade+-+PUC+Minas;Buscando+minha+primeira+oportunidade+como+QA" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=QA%20Engineer%20em%20Forma%C3%A7%C3%A3o&fontSize=26&fontColor=394d6b&fontAlignY=45&animation=fadeIn&desc=Cypress%20%7C%20Postman%20%7C%20Appium%20%7C%20GitHub%20Actions%20%7C%20Testes%20Manuais&descAlignY=75&descSize=14&descColor=8da6b6" />
 </div>
 
 <br/>
@@ -118,14 +118,6 @@ Minha vivência profissional me ensinou que processos mal validados geram retrab
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-de-souza-lemos&show_icons=true&title_color=394d6b&text_color=394d6b&icon_color=8da6b6&border_color=394d6b&bg_color=ffffff" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-de-souza-lemos&layout=compact&title_color=394d6b&text_color=394d6b&border_color=394d6b&bg_color=ffffff" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=joao-vitor-de-souza-lemos&theme=default&border=394d6b&ring=394d6b&fire=8da6b6&currStreakLabel=394d6b&sideLabels=394d6b&dates=8da6b6&background=ffffff" />
