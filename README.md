@@ -51,6 +51,7 @@ Minha vivência profissional me ensinou que processos mal validados geram retrab
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" />
   <img src="https://img.shields.io/badge/Teste_Manual-394d6b?style=for-the-badge&logo=testcafe&logoColor=white" />
 </div>
 
@@ -129,7 +130,7 @@ Minha vivência profissional me ensinou que processos mal validados geram retrab
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Vitor_Lemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolemos2004)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaolemos2004-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolemos2004)
   &nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-joaovitords.lemos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitords.lemos@gmail.com)
   &nbsp;
