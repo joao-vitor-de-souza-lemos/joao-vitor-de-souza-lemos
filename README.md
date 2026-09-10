@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:394d6b,100:8da6b6&height=200&section=header&text=João%20Vitor%20de%20Souza%20Lemos&fontSize=36&fontColor=FFFFFF&fontAlignY=48&desc=QA%20Engineer%20%7C%20Automação%20de%20Testes%20%7C%20Engenharia%20de%20Qualidade%20de%20Software&descSize=15&descAlignY=65&descColor=FFFFFF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:394d6b,100:8da6b6&height=200&section=header&text=João%20Vitor%20de%20Souza%20Lemos&fontSize=36&fontColor=FFFFFF&fontAlignY=48&desc=QA%20Engineer%20%7C%20AVANTI%20Digital%20Commerce%20%7C%20Engenharia%20de%20Qualidade%20de%20Software&descSize=14&descAlignY=65&descColor=FFFFFF" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=QA%20Engineer%20em%20Forma%C3%A7%C3%A3o&fontSize=26&fontColor=394d6b&fontAlignY=45&animation=fadeIn&desc=Cypress%20%7C%20Postman%20%7C%20Appium%20%7C%20GitHub%20Actions%20%7C%20Testes%20Manuais&descAlignY=75&descSize=14&descColor=8da6b6" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=QA%20Engineer%20%7C%20Estagiário%20na%20AVANTI&fontSize=26&fontColor=394d6b&fontAlignY=45&animation=fadeIn&desc=Cypress%20%7C%20Playwright%20%7C%20Postman%20%7C%20Appium%20%7C%20GitHub%20Actions%20%7C%20Testes%20Manuais&descAlignY=75&descSize=14&descColor=8da6b6" />
 </div>
 
 <br/>
@@ -15,7 +15,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/🎓_PUC_Minas-Pós--Graduação_em_QA-394d6b?style=flat-square&labelColor=394d6b&color=8da6b6" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🎯_Foco-QA_Engineering-394d6b?style=flat-square&labelColor=394d6b&color=8da6b6" />
+  <img src="https://img.shields.io/badge/💼_AVANTI-Estagiário_de_QA-394d6b?style=flat-square&labelColor=394d6b&color=8da6b6" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=joao-vitor-de-souza-lemos&color=394d6b&style=flat-square&label=Visualizações+do+Perfil" />
 </div>
@@ -24,7 +24,9 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-Sou um profissional em transição de carreira para a área de **Qualidade de Software**, com mais de um ano de experiência acumulada nas áreas de **Implantação** e **Inteligência Comercial** na *Techfin ERP Finance — uma empresa TOTVS e Itaú*. Essa trajetória me formou com habilidades que considero essenciais para um QA de excelência: **atenção criteriosa aos detalhes**, **visão sistêmica de processos**, **comunicação assertiva com stakeholders** e **mentalidade analítica orientada a dados**.
+Sou um **QA Engineer** com 2 anos e 10 meses de experiência profissional acumulada nas áreas de **Implantação** e **Inteligência Comercial** na *Techfin ERP Finance — empresa conjunta entre TOTVS e Itaú*. Essa trajetória me formou com habilidades que considero essenciais para um QA de excelência: **atenção criteriosa aos detalhes**, **visão sistêmica de processos**, **comunicação assertiva com stakeholders** e **mentalidade analítica orientada a dados**.
+
+Desde setembro de 2026, atuo como **Estagiário de QA na AVANTI | Digital Commerce Experts**, onde contribuo com testes funcionais, documentação de casos de teste e colaboração ativa com os times de desenvolvimento e produto para garantia de qualidade nas entregas digitais.
 
 Atualmente curso **Pós-Graduação em Engenharia de Qualidade e Teste de Software pela PUC Minas** e **Bacharelado em Ciência da Computação pela UNICID**, consolidando a base técnica necessária para atuar com profundidade na área de QA.
 
@@ -101,24 +103,35 @@ Minha vivência profissional me ensinou que processos mal validados geram retrab
 
 ## 💼 Experiência Profissional
 
+### 🧪 Estagiário de QA · *set. 2026 – Presente*
+**AVANTI | Digital Commerce Experts · Florianópolis, SC (Remoto)**
+
+- Execução de testes funcionais e exploratórios em aplicações web de digital commerce
+- Documentação e reporte de defeitos com clareza e rastreabilidade
+- Apoio na elaboração e manutenção de casos de teste baseados em requisitos de negócio
+- Colaboração com os times de Desenvolvimento e Produto para garantia da qualidade das entregas
+- Participação em cerimônias ágeis do ciclo de desenvolvimento
+
+---
+
 ### 📊 Assistente de Inteligência Comercial · *Jan 2025 – Mai 2026*
 **Techfin ERP Finance — uma empresa TOTVS e Itaú · São Paulo, SP**
 
 - Extração e análise de dados comerciais via **SQL no Databricks**
 - Desenvolvimento de dashboards estratégicos no **Power BI**
 - Desenvolvimento de chatbots com **Microsoft Copilot Studio**
-- Gestão do pipeline comercial no CRM **Pipedrive**
+- Gestão do pipeline comercial no CRM **Pipedrive** e tarefas da equipe no **Jira**
 - Apoio à gestão do produto **+Venda Intracadeia** (parceria com Itaú)
-- Organização e automação de planilhas no **Excel e Google Sheets**
+- Organização e documentação de dados operacionais no **Excel e Google Sheets**
 
 ---
 
 ### 🔧 Jovem Aprendiz — Implantação · *Ago 2023 – Dez 2024*
 **Techfin ERP Finance — uma empresa TOTVS e Itaú · São Paulo, SP**
 
-- Implantação de produtos de meio de pagamento no **ERP TOTVS RM** (segmento educacional)
-- Condução de videoconferências de implantação e treinamento com clientes
-- Suporte técnico pós-implantação via videoconferência e e-mail
+- Implantação e validação de produtos de meio de pagamento no **ERP TOTVS RM** (segmento educacional)
+- Condução de videoconferências de implantação, coleta de requisitos e documentação de critérios de aceite
+- Identificação, reporte e acompanhamento de bugs pós-implantação até a validação final
 
 ---
 
